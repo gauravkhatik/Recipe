@@ -9,15 +9,15 @@
 <br> User Interaction: Likes, comments, and ratings for recipes.</br>
 
 <b>Technology Stack</b>
-Frontend: React.js, Redux, TailwindCSS
-Backend: Node.js, Express.js
-Database: MongoDB with Mongoose ORM
-Authentication: JWT/OAuth
-Real-Time Features: WebSockets/Firebase
+<br>Frontend: React.js, Redux, TailwindCSS
+<br>Backend: Node.js, Express.js
+<br>Database: MongoDB with Mongoose ORM
+<br>Authentication: JWT/OAuth
+<br>Real-Time Features: WebSockets/Firebase
 Hosting: Vercel/Netlify (Frontend), Render/Heroku (Backend)
 </br>
 <b>Project Goals</b>
-Provide a user-friendly interface for sharing and discovering recipes.
-Implement real-time collaboration for recipe updates and feedback.
-Ensure secure authentication and efficient database management.
-Offer responsive design for mobile and desktop users.
+<br>Provide a user-friendly interface for sharing and discovering recipes.
+<br>Implement real-time collaboration for recipe updates and feedback.
+<br>Ensure secure authentication and efficient database management.
+<br>Offer responsive design for mobile and desktop users.
